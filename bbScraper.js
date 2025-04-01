@@ -1,6 +1,6 @@
 // playwright_telegram_bot.js
-const { chromium } = require('playwright');
-const TelegramBot = require('node-telegram-bot-api');
+import chromium from 'playwright';
+import TelegramBot from 'node-telegram-bot-api';
 const logging = console;
 
 // Telegram Bot Configuration – fill in your values
