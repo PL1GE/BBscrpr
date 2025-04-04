@@ -6,7 +6,7 @@
 }
 {
   "scripts": {
-    "start": "node index.js"
+    "start": "node bbScraper.js"
   }
 }
 {
